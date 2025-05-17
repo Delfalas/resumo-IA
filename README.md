@@ -41,4 +41,4 @@ Interface web do Azure para trabalhar com modelos de linguagem de forma visual e
 - Extração de entidades 🏢📅📍
 - Classificação de texto 🗂️
 - Detecção de idioma 🌐
-- Modelos personalizados com LUIS
+- Modelos personalizados com LUIS (Language Understanding)
