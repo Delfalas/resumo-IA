@@ -109,3 +109,42 @@ Recursos principais:
 🚀 Ideal para aplicações modernas que requerem uma camada inteligente de busca com alto desempenho.
 
 ---
+
+## 🧠 IA Generativa Responsável
+
+A **IA Generativa Responsável** refere-se ao desenvolvimento e uso de sistemas de IA que **criam conteúdo novo** (texto, imagem, código, etc.) de forma **ética, segura e confiável**.
+
+**Princípios fundamentais:**
+- ✅ **Transparência**: deixar claro quando o conteúdo é gerado por IA.  
+- ⚖️ **Justiça**: evitar vieses e discriminação nos resultados.  
+- 🔐 **Privacidade e segurança**: proteger dados sensíveis dos usuários.  
+- 👨‍⚖️ **Responsabilidade**: garantir supervisão humana no uso da IA.
+
+---
+
+## 💼 Microsoft Copilot
+
+O **Microsoft Copilot** é uma integração de IA nos produtos do Microsoft 365, como **Word, Excel, PowerPoint e Outlook**.
+
+**Funcionalidades principais:**
+- ✍️ Gerar e resumir textos no Word.  
+- 📊 Criar fórmulas e análises no Excel.  
+- 🎨 Sugerir layouts e textos no PowerPoint.  
+- 📬 Ajudar a redigir e-mails no Outlook.
+
+🔗 Baseado na tecnologia da **OpenAI**, operando com segurança na nuvem da Microsoft.
+
+---
+
+## ☁️ Azure OpenAI
+
+O **Azure OpenAI** é um serviço na nuvem da **Microsoft Azure** que permite acessar modelos da OpenAI como **GPT, Codex e DALL·E**.
+
+**Benefícios:**
+- 🔒 **Infraestrutura segura** e escalável.  
+- 📈 **Integração com sistemas corporativos e dados internos.**  
+- 🧰 Suporte a **chatbots, automação, geração de código e mais**.
+
+🌍 Ideal para empresas que buscam usar IA avançada com **controle, conformidade e governança**.
+
+---
